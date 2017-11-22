@@ -1,3 +1,9 @@
+###Help:
+## Tidal 
+https://tidalcycles.org/functions.html
+
+https://www.youtube.com/watch?v=plu04_ewZUQ&list=PLKgxw7RG3hcRHyBFsPr5opr1iu8wbNIgP
+
 ###References:
 
 http://toplap.org
