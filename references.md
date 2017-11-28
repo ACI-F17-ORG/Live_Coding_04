@@ -40,10 +40,21 @@ http://www.pawfal.org/fluxus/
 
 http://livecodelab.net
 
+https://atom.io/packages/veda
+
 ###Both:
+
+http://www.praxislive.org
 
 http://gibber.mat.ucsb.edu
 
 http://extempore.moso.com.au
 
 https://puredata.info
+
+###Collaborative Editor:
+
+https://github.com/Qirky/Troop
+
+https://floobits.com
+
