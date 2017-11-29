@@ -1,8 +1,4 @@
 ###Help:
-## Tidal 
-https://tidalcycles.org/functions.html
-
-https://www.youtube.com/watch?v=plu04_ewZUQ&list=PLKgxw7RG3hcRHyBFsPr5opr1iu8wbNIgP
 
 ###References:
 
@@ -42,6 +38,8 @@ http://livecodelab.net
 
 https://atom.io/packages/veda
 
+https://hexler.net/software/kodelife
+
 ###Both:
 
 http://www.praxislive.org
@@ -57,4 +55,24 @@ https://puredata.info
 https://github.com/Qirky/Troop
 
 https://floobits.com
+
+###Tidal 
+https://tidalcycles.org/functions.html
+
+https://www.youtube.com/watch?v=plu04_ewZUQ&list=PLKgxw7RG3hcRHyBFsPr5opr1iu8wbNIgP
+
+###Artists
+http://amy-alexander.com
+
+https://vimeo.com/user16079418
+
+http://blog.sicchio.com
+
+https://yaxu.org
+
+http://kindohm.com
+
+https://shellyknotts.wordpress.com
+
+http://www.renickbell.net/doku.php
 
