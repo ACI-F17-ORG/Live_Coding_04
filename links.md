@@ -16,6 +16,7 @@ Yihao Zhu https://vimeo.com/246154574
 
 Emily Lockwood https://youtu.be/Z7ZqCf8wJoI
 
+Zeana Llamas https://youtu.be/wYqwTLR5W9k
 
 Jessie Liao https://vimeo.com/246937140
 
