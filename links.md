@@ -28,6 +28,8 @@ Omer Osman https://youtu.be/VomCTGH2hBA
 
 Jazmyn Borman: https://youtu.be/718rES-05c4
 
+Curtis Falkingham https://www.youtube.com/watch?v=d1KKItt-cHw
+
 Uyen Uong: https://youtu.be/Y8j8eEFo8KM
 
 Bohan Chen: https://github.com/bohanchen/Livecoding_Moonlight
