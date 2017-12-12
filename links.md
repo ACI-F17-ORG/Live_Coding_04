@@ -16,8 +16,10 @@ Yihao Zhu https://vimeo.com/246154574
 
 Emily Lockwood https://youtu.be/Z7ZqCf8wJoI
 
+
+Jessie Liao https://vimeo.com/246937140
+
 Omer Osman https://youtu.be/VomCTGH2hBA
 
 Jazmyn Borman: https://youtu.be/718rES-05c4
-
 
