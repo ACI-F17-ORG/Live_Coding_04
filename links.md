@@ -14,6 +14,8 @@ Amanda Howanice https://vimeo.com/246918673
 
 Yihao Zhu https://vimeo.com/246154574
 
+Madeline Kettler  https://vimeo.com/246962525
+
 Emily Lockwood https://youtu.be/Z7ZqCf8wJoI
 
 
