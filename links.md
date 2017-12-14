@@ -6,6 +6,8 @@ Put your name and link to assignment repository here. Example:
 Shawn Lawson    https://github.com/shawnlawson/EV9D9
 
 ----
+Andrew Aquino [source code](https://github.com/dawneraq/ACI-live-coding), [recording](https://vimeo.com/247262461)
+
 Liliana Campuzano https://github.com/MystG/MayonnaiseSandwich
 
 Igor Carvalho https://youtu.be/IHLKVYGfNdU
