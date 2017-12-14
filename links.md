@@ -18,7 +18,8 @@ Yihao Zhu https://vimeo.com/246154574
 
 Madeline Kettler  https://vimeo.com/246962525
 
-Andie Labgolf https://drive.google.com/file/d/1aMIKvVN3xO_46oXbEC-leJHP4lXR1DLG/view?usp=sharing
+Andie Labgold https://drive.google.com/file/d/1aMIKvVN3xO_46oXbEC-leJHP4lXR1DLG/view?usp=sharing
+              https://youtu.be/pokKNJZCVh4
 
 Emily Lockwood https://youtu.be/Z7ZqCf8wJoI
 
