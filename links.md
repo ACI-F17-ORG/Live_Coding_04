@@ -30,7 +30,7 @@ Omer Osman https://youtu.be/VomCTGH2hBA
 
 Jazmyn Borman: https://youtu.be/718rES-05c4
 
-Curtis Falkingham https://www.youtube.com/watch?v=d1KKItt-cHw
+Curtis Falkingham and Arielle Cerini https://github.com/acerini/LiveCoding https://www.youtube.com/watch?v=d1KKItt-cHw 
 
 Uyen Uong: https://youtu.be/Y8j8eEFo8KM
 
