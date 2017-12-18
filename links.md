@@ -27,6 +27,8 @@ Zeana Llamas https://youtu.be/wYqwTLR5W9k
 
 Jessie Liao https://vimeo.com/246937140
 
+John Noonan [my part of the performance](https://youtu.be/BYhr0r29HKM)
+
 Omer Osman https://youtu.be/VomCTGH2hBA
 
 Jazmyn Borman: https://youtu.be/718rES-05c4
