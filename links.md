@@ -27,7 +27,7 @@ Zeana Llamas https://youtu.be/wYqwTLR5W9k
 
 Jessie Liao https://vimeo.com/246937140
 
-John Noonan [my part of the performance](https://youtu.be/BYhr0r29HKM)
+John Noonan [my part of the performance](https://youtu.be/BYhr0r29HKM), [combined performance](https://vimeo.com/247905173)
 
 Omer Osman https://youtu.be/VomCTGH2hBA
 
